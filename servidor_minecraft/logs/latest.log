@@ -1,0 +1,112 @@
+[00:47:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[00:47:03] [ServerMain/INFO]: Loaded 1461 recipes
+[00:47:03] [ServerMain/INFO]: Loaded 1574 advancements
+[00:47:03] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[00:47:03] [Server thread/INFO]: Loading properties
+[00:47:03] [Server thread/INFO]: Default game type: SURVIVAL
+[00:47:03] [Server thread/INFO]: Generating keypair
+[00:47:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:47:03] [Server thread/INFO]: Using epoll channel type
+[00:47:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:47:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:47:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:47:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:47:03] [Server thread/INFO]: Preparing level "world"
+[00:47:04] [Server thread/INFO]: Loading 0 persistent chunks...
+[00:47:04] [Server thread/INFO]: Preparing spawn area: 100%
+[00:47:04] [Server thread/INFO]: Time elapsed: 15 ms
+[00:47:04] [Server thread/INFO]: Done (0.397s)! For help, type "help"
+[00:47:20] [Server thread/INFO]: Richi[/127.39.20.82:46805] logged in with entity id 54 at (6.934865438480223, 64.0, 314.61778910679334)
+[00:47:20] [Server thread/INFO]: Richi joined the game
+[00:50:04] [Server thread/INFO]: Richi lost connection: Disconnected
+[00:50:04] [Server thread/INFO]: Richi left the game
+[00:50:11] [Server thread/INFO]: Richi[/127.39.20.82:38845] logged in with entity id 849 at (53.917081129921755, 64.0, 209.9712093762075)
+[00:50:11] [Server thread/INFO]: Richi joined the game
+[00:50:19] [Server thread/INFO]: Richi lost connection: Disconnected
+[00:50:19] [Server thread/INFO]: Richi left the game
+[00:51:19] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:53:11] [Server thread/INFO]: Richi[/127.39.20.82:50819] logged in with entity id 1152 at (53.52070250561054, 63.0, 210.3230916355541)
+[00:53:11] [Server thread/INFO]: Richi joined the game
+[00:53:23] [Server thread/INFO]: Richi lost connection: Disconnected
+[00:53:23] [Server thread/INFO]: Richi left the game
+[00:54:23] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:56:31] [Server thread/INFO]: Richi[/127.39.20.82:56197] logged in with entity id 1433 at (53.52070250561054, 63.0, 210.3230916355541)
+[00:56:31] [Server thread/INFO]: Richi joined the game
+[00:57:04] [Server thread/INFO]: Richi lost connection: Disconnected
+[00:57:04] [Server thread/INFO]: Richi left the game
+[00:58:04] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:58:07] [Server thread/INFO]: xdxd[/127.155.12.199:48009] logged in with entity id 1860 at (-14.699999988079071, 51.0, 22.196893183049998)
+[00:58:07] [Server thread/INFO]: xdxd joined the game
+[00:58:07] [Server thread/INFO]: Richi[/127.39.20.82:40243] logged in with entity id 2007 at (55.39212922721185, 64.0, 212.67934293559696)
+[00:58:07] [Server thread/INFO]: Richi joined the game
+[01:00:57] [Server thread/INFO]: xdxd has made the advancement [Monster Hunter]
+[01:01:20] [Server thread/INFO]: piolin_14[/127.164.26.54:40831] logged in with entity id 2988 at (-374.6214963597254, 76.0, 380.30000001192093)
+[01:01:20] [Server thread/INFO]: piolin_14 joined the game
+[01:05:11] [Server thread/INFO]: piolin_14 was shot by Skeleton
+[01:05:19] [Server thread/INFO]: piolin_14 lost connection: Disconnected
+[01:05:19] [Server thread/INFO]: piolin_14 left the game
+[01:06:14] [Server thread/INFO]: xdxd has made the advancement [Acquire Hardware]
+[01:06:24] [Server thread/INFO]: xdxd has made the advancement [Not Today, Thank You]
+[01:08:01] [Server thread/INFO]: xdxd has made the advancement [Suit Up]
+[01:08:31] [Server thread/INFO]: xdxd has made the advancement [Isn't It Iron Pick]
+[01:10:28] [Server thread/INFO]: Goku_0214[/127.164.26.54:55701] logged in with entity id 5415 at (3.5, 70.0, -1.5)
+[01:10:28] [Server thread/INFO]: Goku_0214 joined the game
+[01:12:42] [Server thread/INFO]: Goku_0214 has made the advancement [Stone Age]
+[01:13:37] [Server thread/INFO]: Goku_0214 has made the advancement [Acquire Hardware]
+[01:14:28] [Server thread/INFO]: Goku_0214 has made the advancement [Isn't It Iron Pick]
+[01:16:27] [Server thread/INFO]: xdxd has made the advancement [Diamonds!]
+[01:16:41] [Server thread/INFO]: Goku_0214 has made the advancement [Not Today, Thank You]
+[01:16:49] [Server thread/INFO]: Goku_0214 has made the advancement [Monster Hunter]
+[01:21:00] [Server thread/INFO]: Richi was blown up by Creeper
+[01:21:21] [Server thread/INFO]: Richi lost connection: Disconnected
+[01:21:21] [Server thread/INFO]: Richi left the game
+[01:22:31] [Server thread/INFO]: Goku_0214 has made the advancement [Diamonds!]
+[01:22:52] [Server thread/INFO]: Richixxx[/127.155.12.199:47629] logged in with entity id 9639 at (-5.5, 65.0, 7.5)
+[01:22:52] [Server thread/INFO]: Richixxx joined the game
+[01:23:33] [Server thread/INFO]: Teleported Richixxx to xdxd
+[01:23:40] [Server thread/INFO]: Richixxx has made the advancement [Stone Age]
+[01:23:44] [Server thread/INFO]: Richixxx has made the advancement [Diamonds!]
+[01:23:45] [Server thread/INFO]: Richixxx has made the advancement [Isn't It Iron Pick]
+[01:23:45] [Server thread/INFO]: Richixxx has made the advancement [Suit Up]
+[01:24:37] [Server thread/INFO]: Richixxx has made the advancement [Acquire Hardware]
+[01:25:00] [Server thread/INFO]: Goku_0214 has made the advancement [Suit Up]
+[01:26:25] [Server thread/INFO]: Richixxx has made the advancement [Not Today, Thank You]
+[01:26:46] [Server thread/INFO]: Richixxx has made the advancement [Monster Hunter]
+[01:30:20] [Server thread/INFO]: xdxd has made the advancement [Cover Me with Diamonds]
+[01:32:42] [Server thread/INFO]: Richixxx has made the advancement [Cover Me with Diamonds]
+[01:33:26] [Server thread/INFO]: xdxd has made the advancement [Take Aim]
+[01:37:33] [Server thread/INFO]: Goku_0214 was shot by Skeleton
+[01:37:38] [Server thread/INFO]: Goku_0214 lost connection: Disconnected
+[01:37:38] [Server thread/INFO]: Goku_0214 left the game
+[01:39:02] [Server thread/INFO]: fokinmaincra[/127.164.26.54:33535] logged in with entity id 14567 at (-4.5, 68.0, -9.5)
+[01:39:02] [Server thread/INFO]: fokinmaincra joined the game
+[01:43:54] [Server thread/INFO]: Richixxx has made the advancement [Sweet Dreams]
+[01:43:54] [Server thread/INFO]: fokinmaincra has made the advancement [Sweet Dreams]
+[01:49:22] [Server thread/INFO]: fokinmaincra has made the advancement [Stone Age]
+[01:51:39] [Server thread/INFO]: fokinmaincra has made the advancement [Acquire Hardware]
+[01:52:46] [Server thread/INFO]: fokinmaincra has made the advancement [Suit Up]
+[01:55:49] [Server thread/INFO]: fokinmaincra has made the advancement [Isn't It Iron Pick]
+[01:56:46] [Server thread/INFO]: Richixxx has made the advancement [Take Aim]
+[01:59:09] [Server thread/WARN]: Oak Boat (vehicle of xdxd) moved wrongly! 0.555389500556771
+[01:59:09] [Server thread/WARN]: Oak Boat (vehicle of xdxd) moved wrongly! 0.7852165921468668
+[01:59:09] [Server thread/WARN]: Oak Boat (vehicle of xdxd) moved wrongly! 1.02145572610101
+[01:59:10] [Server thread/WARN]: Oak Boat (vehicle of xdxd) moved wrongly! 0.42249826680853175
+[01:59:10] [Server thread/WARN]: Oak Boat (vehicle of xdxd) moved wrongly! 0.42249826680853175
+[01:59:10] [Server thread/WARN]: Oak Boat (vehicle of xdxd) moved wrongly! 0.42249826680853175
+[01:59:16] [Server thread/WARN]: Oak Boat (vehicle of xdxd) moved wrongly! 0.25134967283639753
+[01:59:17] [Server thread/WARN]: Oak Boat (vehicle of xdxd) moved wrongly! 0.8026950620978255
+[01:59:17] [Server thread/WARN]: Oak Boat (vehicle of xdxd) moved wrongly! 0.49578139306453295
+[01:59:17] [Server thread/WARN]: Oak Boat (vehicle of xdxd) moved wrongly! 0.8145901846604033
+[01:59:17] [Server thread/WARN]: Oak Boat (vehicle of xdxd) moved wrongly! 0.5003825093241403
+[01:59:22] [Server thread/WARN]: Oak Boat (vehicle of xdxd) moved wrongly! 0.3458561090170633
+[01:59:22] [Server thread/WARN]: Oak Boat (vehicle of xdxd) moved wrongly! 0.37706881699853056
+[02:00:13] [Server thread/INFO]: fokinmaincra lost connection: Disconnected
+[02:00:13] [Server thread/INFO]: fokinmaincra left the game
+[02:04:00] [Server thread/INFO]: Richixxx has made the advancement [Ice Bucket Challenge]
+[02:04:37] [Server thread/INFO]: xdxd has made the advancement [Hot Stuff]
+[02:05:01] [Server thread/INFO]: xdxd has made the advancement [Ice Bucket Challenge]
+[02:05:43] [Server thread/INFO]: xdxd has made the advancement [Who is Cutting Onions?]
+[02:05:46] [Server thread/INFO]: Richixxx has made the advancement [Who is Cutting Onions?]
+[02:06:23] [Server thread/INFO]: xdxd has made the advancement [We Need to Go Deeper]
+[02:06:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3018ms or 60 ticks behind
+[02:06:35] [Server thread/INFO]: Richixxx has made the advancement [We Need to Go Deeper]
